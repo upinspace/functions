@@ -1,4 +1,4 @@
-let pontuacao = calcularRanking(135, 50)
+let pontuacao = calcularRanking(250, 100)
 
 let classes = ["ferro", "bronze", "prata", "ouro", "diamante", "lendário", "imortal"]
 
